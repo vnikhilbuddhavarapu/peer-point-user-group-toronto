@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "card-1-threat-hunter",
+    "title": "Threat Hunter",
+    "repository": "https://github.com/vnikhilbuddhavarapu/peer-point-card-1-threat-hunter",
+    "deployUrl": "https://deploy.workers.cloudflare.com/?url=https://github.com/vnikhilbuddhavarapu/peer-point-card-1-threat-hunter",
+    "status": "ready"
+  },
+  {
+    "slug": "card-2-code-review",
+    "title": "Code Review Agent",
+    "repository": "https://github.com/vnikhilbuddhavarapu/peer-point-card-2-code-review",
+    "deployUrl": "https://deploy.workers.cloudflare.com/?url=https://github.com/vnikhilbuddhavarapu/peer-point-card-2-code-review",
+    "status": "ready-with-fallback"
+  },
+  {
+    "slug": "inbox-agent",
+    "title": "Inbox Agent",
+    "repository": "https://github.com/vnikhilbuddhavarapu/peer-point-card-3-inbox-agent",
+    "deployUrl": "https://deploy.workers.cloudflare.com/?url=https://github.com/vnikhilbuddhavarapu/peer-point-card-3-inbox-agent",
+    "status": "ready-with-fallback"
+  },
+  {
+    "slug": "card-4-cross-system",
+    "title": "Cross-System Agent",
+    "repository": "https://github.com/vnikhilbuddhavarapu/peer-point-card-4-cross-system",
+    "deployUrl": "https://deploy.workers.cloudflare.com/?url=https://github.com/vnikhilbuddhavarapu/peer-point-card-4-cross-system",
+    "status": "ready-with-fallback"
+  },
+  {
+    "slug": "card-5-watcher",
+    "title": "Watcher Agent",
+    "repository": "https://github.com/vnikhilbuddhavarapu/peer-point-card-5-watcher",
+    "deployUrl": "https://deploy.workers.cloudflare.com/?url=https://github.com/vnikhilbuddhavarapu/peer-point-card-5-watcher",
+    "status": "ready-with-fallback"
+  }
+]
